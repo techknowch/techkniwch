@@ -31,7 +31,7 @@ timeline
     title Career Timeline
     2023 : Laravel Dev @ Hashtag Web
     2020 : PHP Dev @ Dee Designers
-    2025 : Sr Full Stack Dev @ PakiPreneur
+    2024 : Sr Full Stack Dev @ PakiPreneur
     2023 : Sr WP Dev @ SI WEB
     2023 : Sr Laravel Dev @ IBDA
 ```
